@@ -1,0 +1,11 @@
+C:\Users\griind2\source\repos\DI\DI\bin\Debug\netcoreapp3.1\DI.exe
+C:\Users\griind2\source\repos\DI\DI\bin\Debug\netcoreapp3.1\DI.deps.json
+C:\Users\griind2\source\repos\DI\DI\bin\Debug\netcoreapp3.1\DI.runtimeconfig.json
+C:\Users\griind2\source\repos\DI\DI\bin\Debug\netcoreapp3.1\DI.runtimeconfig.dev.json
+C:\Users\griind2\source\repos\DI\DI\bin\Debug\netcoreapp3.1\DI.dll
+C:\Users\griind2\source\repos\DI\DI\bin\Debug\netcoreapp3.1\DI.pdb
+C:\Users\griind2\source\repos\DI\DI\obj\Debug\netcoreapp3.1\DI.csprojAssemblyReference.cache
+C:\Users\griind2\source\repos\DI\DI\obj\Debug\netcoreapp3.1\DI.AssemblyInfoInputs.cache
+C:\Users\griind2\source\repos\DI\DI\obj\Debug\netcoreapp3.1\DI.AssemblyInfo.cs
+C:\Users\griind2\source\repos\DI\DI\obj\Debug\netcoreapp3.1\DI.dll
+C:\Users\griind2\source\repos\DI\DI\obj\Debug\netcoreapp3.1\DI.pdb
